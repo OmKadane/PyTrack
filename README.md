@@ -39,31 +39,31 @@ PyTrack is a comprehensive desktop application designed to help you manage your 
 ## ⚙️ Installation
 
 1. **Clone this repository:**
-  ```bash
-  git clone https://github.com/OmKadane/PyTrack.git
-  cd PyTrack
-  ```
+    ```bash
+    git clone https://github.com/OmKadane/PyTrack.git
+    cd PyTrack
+    ```
 2. **Create a virtual environment (recommended):**
-  ```bash
-  # For macOS/Linux
-  python3 -m venv venv
-  source venv/bin/activate
+    ```bash
+    # For macOS/Linux
+    python3 -m venv venv
+    source venv/bin/activate
   
-  # For Windows
-  python -m venv venv
-  venv\Scripts\activate
-  ```
+    # For Windows
+    python -m venv venv
+    venv\Scripts\activate
+    ```
 3. **Install the required dependencies:**
-  Create a requirements.txt file with the following content:
-  ```bash
-  tkcalendar
-  matplotlib
-  Pillow
-  ```
-  Then, run the installation command:
-  ```bash
-  pip install -r requirements.txt
-  ```
+    Create a requirements.txt file with the following content:
+    ```bash
+    tkcalendar
+    matplotlib
+    Pillow
+    ```
+    Then, run the installation command:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ---
 
