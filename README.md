@@ -1,4 +1,4 @@
-#  PyTrack - Your Smart Expense Tracker
+# 💰 PyTrack - Your Smart Expense Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white) 
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-red.svg) 
