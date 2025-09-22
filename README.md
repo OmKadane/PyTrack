@@ -65,6 +65,8 @@ PyTrack is a comprehensive desktop application designed to help you manage your 
   pip install -r requirements.txt
   ```
 
+---
+
 ## 🏃‍♂️ Running the Application
 
 Once the installation is complete, run the following command in your terminal:
