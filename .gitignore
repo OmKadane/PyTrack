@@ -1,0 +1,22 @@
+# --- Python Virtual Environments ---
+venv/
+.venv/
+env/
+.env/
+
+# --- Python Cache & Compiled Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDE/Editor Configurations ---
+.vscode/
+.PyCharm/
+.idea/
+.cursor/
+*.swp
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
